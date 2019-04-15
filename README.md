@@ -1,6 +1,6 @@
 # docker-node-redis
 
-#### A simple app to count number of visits. Created using node, express, redis and docker.
+A simple app to count number of visits. Created using node, express, redis and docker.
 
 ``` docker
 docker-compose up // to start the app
